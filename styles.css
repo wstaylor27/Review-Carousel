@@ -12,3 +12,9 @@
 .prev-btn, .next-btn, .random-btn {
     margin: 5px;
 }
+
+.review {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
