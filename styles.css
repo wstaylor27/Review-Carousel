@@ -1,7 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
 
+html, body {
+    margin: 0;
+    height: 100%;
+}
+#grad {
+    background-image: linear-gradient(cyan, yellow);
+}
 .container {
     text-align: center;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
 }
 
 .title {
@@ -20,4 +32,5 @@
     margin: 20px 200px;
     padding: 20px;
     border-radius: 5px;
+    background-color: white;
   }
