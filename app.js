@@ -2,10 +2,17 @@
 const reviews = [
   {
     id: 1,
-    name: "susan smith",
-    job: "web developer",
-    img: "random http",
-    text: "What's up everybody",
+    name: "Jonathan Alexander",
+    job: "UX Designer",
+    img: "./pics/jonathan-alexander.jpg",
+    text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo, dolor. Officia a neque atque nostrum quas. Sed necessitatibus at quas.",
+  },
+  {
+    id: 2,
+    name: "Wes Taylor",
+    job: "Full Stack Web Developer",
+    img: "./pics/wesley-taylor.jpg",
+    text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo, dolor. Officia a neque atque nostrum quas. Sed necessitatibus at quas.",
   },
 ];
 
